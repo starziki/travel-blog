@@ -1,10 +1,12 @@
 #logo {
     margin-top: 80px;
+    text-align: center;
 }
 
 #logo img {
     width: 165px;
     height: 58px;
+    content:url("images/logo.png");
 }
 
 #menu {
@@ -31,4 +33,3 @@ div {
 #bottom img {
     width: 90%;
 }
-
